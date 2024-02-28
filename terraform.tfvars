@@ -1,0 +1,5 @@
+region      = "ap-south-1"
+profile     = "profile"
+folder      = "web"
+bucket_name = "infogyan125543"
+domain_name = "infogyan.online"
